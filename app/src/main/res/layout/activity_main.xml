@@ -1,0 +1,39 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/lib/com.example.app"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <WebView
+        android:id="@+id/activity_main_webview"
+        android:scrollbars="none"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+
+        <ImageButton
+            android:id="@+id/im"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_x="165dp"
+            android:layout_y="210dp"
+            android:adjustViewBounds="true"
+
+            android:cropToPadding="false"
+
+            android:background="@null"
+
+            android:scaleType="centerCrop"
+           android:src="@drawable/r"
+            android:visibility="visible" />
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="250dp"
+            android:layout_height="120dp"
+            android:layout_x="40dp"
+            android:layout_y="60dp"
+            android:src="@drawable/ec" />
+    </WebView>
+
+</RelativeLayout>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/raja16/Documents/webview-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/raja16/Documents/webview-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_764e374b1fe69a2b27dc72e5526cac8fce2170bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/raja16/.android/build-cache/81de075d6148b8046e55ecf1f321732f70d76bdf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/raja16/Documents/webview-master/app/build/intermediates/pre-dexed/debug/classes_f63703533c56b87380b0ecddc96ba111c96a71a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/raja16/.android/build-cache/30875457025747c70e28794ceccd6656a0b8a82c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/raja16/Documents/webview-master/app/build/intermediates/pre-dexed/debug/classes_ba023d136381ab8e0b77d4cc434927fd644ef129.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/raja16/.android/build-cache/5d4e8a1c54ad4fc739df1340a54edc4bef576d52/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/raja16/Documents/webview-master/app/build/intermediates/pre-dexed/debug/classes_8f0508b71d218c41c0763b4793e01e86a27b3b10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/raja16/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/raja16/Documents/webview-master/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_1f218d98aa95dbd39e7a21d457951e89bfd9f5b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/raja16/.android/build-cache/30875457025747c70e28794ceccd6656a0b8a82c/output/jars/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/raja16/Documents/webview-master/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3_aaa19ab1f42c32ceb3e12c70f51898a387018fb6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/raja16/Documents/webview-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b78fa175ba1af0965ece5a7d04a94f4af6d0cae9">
+        <dex dex="/home/raja16/Documents/webview-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_d3745a339a6fe0cb079c4da69a744a2258bce404/classes.dex" />
+    </item>
+
+</items>
